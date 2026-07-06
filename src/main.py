@@ -20,5 +20,5 @@ def main():
     print(f"Done! Report created: {doc_url}")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
