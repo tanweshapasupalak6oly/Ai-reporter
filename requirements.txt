@@ -1,0 +1,10 @@
+google-genai
+feedparser
+requests
+python-docx
+reportlab
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+markdown
